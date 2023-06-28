@@ -25,7 +25,7 @@
 
  ### 👨‍💻 About Me :
 
-- :telescope: I’m Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m Web Developer and contributing to frontend for building web applications.
 
 - :seedling: Exploring something new everyday.
 
